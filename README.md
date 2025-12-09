@@ -11,6 +11,7 @@ The aim is to understand sales trends, best-selling models, fuel preferences, bo
 
 🎯 Objectives
 	•	Identify best-selling models (overall & by body type)
+
 	•	Compare new vs used car sales
 	•	Analyze demand across fuel types (Petrol, Diesel, CNG, Electric, Hybrid)
 	•	Study EV penetration
@@ -24,11 +25,13 @@ The aim is to understand sales trends, best-selling models, fuel preferences, bo
 🧹 Data Preparation
 
 Raw dataset had multiple inconsistencies:
+
 	•	Incorrect fuel type tagging (some Petrol/Diesel cars marked as EV)
 	•	Body type mismatches
 	•	Duplicate model naming formats
 
 ✅ Corrections Done:
+
 	•	Created Corrected Fuel Type column:
 	•	Cars containing “EV” in model → marked Electric
 	•	Incorrect Electric entries → reverted to Petrol
@@ -41,6 +44,7 @@ Raw dataset had multiple inconsistencies:
 ⸻
 
 📁 Dataset Summary
+
 	•	Time span: 2000 – 2025
 	•	Rows: ~100,000+ sales records
 	•	Car models: 18
@@ -52,11 +56,12 @@ Raw dataset had multiple inconsistencies:
 📌 Dashboards Built
 
 🔹 Dashboard  – Sales Overview
+
 	•	Total Sales Units
 	•	New vs Used vehicle split
 	•	Year-wise sales trend
 	•	State-wise performance
-  • Segment Analysis
+ • Segment Analysis
 	•	Best Selling:
 	•	Sedan
 	•	Hatchback
@@ -64,19 +69,20 @@ Raw dataset had multiple inconsistencies:
 	•	Fuel-wise sales
 	•	Transmission-wise sales
 	•	Mileage comparison
-  • EV & Regional Insights
+ • EV & Regional Insights
 	•	Total EV sales (New & Used)
 	•	EV growth trend
 	•	Top EV models
 	•	State-wise EV distribution
-  • Sales by transmission
-  • Region Sales
+ • Sales by transmission
+ • Region Sales
 
 ⸻
 
 ⸻
 
 📈 Key Findings
+
 	•	🚘 Punch is the overall best-selling model and top mileage performer.
 	•	🌍 Tamil Nadu leads total sales among all states.
 	•	🚗 Used car demand is highest for Hatchbacks.
@@ -95,6 +101,7 @@ Raw dataset had multiple inconsistencies:
 ⸻
 
 ✅ Business Recommendations
+
 	•	🔧 Increase production & promotion of Punch, due to strong sales & mileage leadership.
 	•	🗺️ Focus marketing campaigns in Tamil Nadu, the highest-performing state.
 	•	🚘 Boost Sedan segment visibility, especially beyond the Tigor model.
@@ -108,6 +115,7 @@ Raw dataset had multiple inconsistencies:
 ⸻
 
 🛠 Tools & Technologies Used
+
 	•	Power BI
 	•	Power Query for Data Cleaning
 	•	DAX for Measures & Calculations
@@ -119,6 +127,7 @@ Raw dataset had multiple inconsistencies:
 ⸻
 
 ✅ Key DAX Functions Used
+
 	•	CALCULATE() – Apply dynamic filters
 	•	FILTER() – Row selection based on conditions
 	•	SELECTEDVALUE() – Fetch single slicer value
@@ -131,6 +140,7 @@ Raw dataset had multiple inconsistencies:
 ⸻
 
 📂 Repository Contents
+
 	•	Power BI dashboard screenshots
 	•	Dataset ZIP file
 	•	PPT presentation slides
