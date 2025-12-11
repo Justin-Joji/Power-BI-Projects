@@ -115,20 +115,20 @@ Raw dataset had multiple inconsistencies:
 This repository contains all files related to the Power BI project.
 
 ## 📊 1. Project Presentation (PPT)
-- **projectpresentationtata.pptx**
+- **projectpresentationtata.pptx** [projectpresentationtata.pptx](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/projectpresentationtata.pptx)
   Contains the full project explanation,dashboard walkthrough,key insights and conclusions.
 
 ### ✅ 2. Dashboard Screenshots
 The following images show key views from the Power BI dashboard:
-- Screenshot 2025-12-08 144558.png
-- Screenshot 2025-12-08 144620.png
-- Screenshot 2025-12-08 144636.png
-- Screenshot 2025-12-08 144649.png
-- Screenshot 2025-12-08 144710.png
-- Screenshot 2025-12-08 144730.png
+- [Screenshot 2025-12-08 144558.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202025-12-08%20144558.png)
+- [Screenshot 2025-12-08 144620.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202025-12-08%20144620.png)
+- [Screenshot 2025-12-08 144636.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202025-12-08%20144636.png)
+- [Screenshot 2025-12-08 144649.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202025-12-08%20144649.png)
+- [Screenshot 2025-12-08 144710.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202025-12-08%20144710.png)
+- [Screenshot 2025-12-08 144730.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202025-12-08%20144730.png)
 
 ### 📅 3. Dataset
-- **tata_cars_100k.zip**
+- **tata_cars_100k.zip** [ tata_cars_100k.zip](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/tata_cars-100k.zip)
   This ZIP file contains the orginal dataset used for building all visualizations in Power BI.
 
 ## How to Use These Files
