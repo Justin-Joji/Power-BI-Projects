@@ -100,6 +100,9 @@ Raw dataset had multiple inconsistencies:
 - SELECTEDVALUE() – Fetch single slicer value
 - TOPN() – Identify best-selling models
 - SUM() – Total sales volumes
+- AVG() - For getting average
+- SUMMARIZE() - Group data and create a summary table
+- MAXX() - Find the maximum value
 - RANKX() – Ranking car models & states
 
 ## 📂 Repository Contents
@@ -108,6 +111,31 @@ Raw dataset had multiple inconsistencies:
 - PPT presentation slides
 - This README documentation
 
+## 📂 Project Files Included
+This repository contains all files related to the Power BI project.
+
+## 📊 1. Project Presentation (PPT)
+- **projectpresentationtata.pptx**
+  Contains the full project explanation,dashboard walkthrough,key insights and conclusions.
+
+### ✅ 2. Dashboard Screenshots
+The following images show key views from the Power BI dashboard:
+- Screenshot 2025-12-08 144558.png
+- Screenshot 2025-12-08 144620.png
+- Screenshot 2025-12-08 144636.png
+- Screenshot 2025-12-08 144649.png
+- Screenshot 2025-12-08 144710.png
+- Screenshot 2025-12-08 144730.png
+
+### 📅 3. Dataset
+- **tata_cars_100k.zip**
+  This ZIP file contains the orginal dataset used for building all visualizations in Power BI.
+
+## How to Use These Files
+- Download the **presentation** to view the project summary.
+- View **screenshots** for a quick overveiw of the dashboards.
+- Extract the **dataset ZIP** to load into Power BI.
+  
 # 👤 Author
 ### Justin  
 📊 Data Analyst  
