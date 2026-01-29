@@ -140,3 +140,133 @@ The following images show key views from the Power BI dashboard:
 ### Justin  
 📊 Data Analyst  
 💡 Portfolio: Power BI Sales Analytics Projects.
+
+
+
+
+
+# 📊 ABB India Stock Performance Analysis (2000–2025)
+
+This project presents an end-to-end **stock performance analysis of ABB India** using **Power BI**, covering historical data from **2000 to 2025**.  
+The dashboard focuses on **price trends, trading volume, volatility, and long-term performance insights**.
+
+---
+
+## 🧾 Project Overview
+
+The objective of this project is to analyze ABB India’s historical stock data to understand:
+
+- Long-term price growth
+- Trading volume behavior
+- Year-end performance trends
+- Market volatility through daily price range
+- Relationship between price movement and volume
+
+This dashboard is designed for **data analysis portfolios, interviews, and business intelligence demonstrations**.
+
+---
+
+## 🗂 Dataset Details
+
+- **Time Period:** 2000 – 2025  
+- **Granularity:** Daily stock data aggregated to yearly level  
+- **Key Columns Used:**
+  - Date
+  - Open Price
+  - High Price
+  - Low Price
+  - Close Price
+  - Volume
+
+---
+
+## 📈 KPIs Included
+
+- **Latest Close Price**
+- **Highest Price (All Time)**
+- **Lowest Price (All Time)**
+- **Total Trading Volume**
+- **Average Trading Volume**
+- **Average Daily Range**
+- **Year-End Closing Price**
+
+---
+
+## 📊 Dashboard Visuals
+
+### 1️⃣ Year-End Closing Price Trend (2000–2025)
+- Shows long-term price growth
+- Highlights major breakout periods and corrections
+
+### 2️⃣ Trading Volume Trend
+- Identifies periods of high investor activity
+- Helps relate volume spikes with price movements
+
+### 3️⃣ Price vs Volume Analysis (Combo Chart)
+- Compares **Year-End Close** with **Total Trading Volume**
+- Useful for understanding accumulation and distribution phases
+
+### 4️⃣ Average Close Price by Year
+- Horizontal bar chart for easy year-wise comparison
+- Highlights recent price acceleration
+
+### 5️⃣ Daily Range by Year
+- Measures yearly volatility
+- Identifies high-risk and stable periods
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Data Modeling**
+- **Custom Measures & KPIs**
+
+---
+
+## 🧠 Key Insights
+
+- ABB India shows **strong long-term growth**, especially post-2020.
+- Trading volume spikes align with major price breakouts.
+- Volatility was significantly higher in early years compared to recent periods.
+- Recent years indicate **price appreciation with stable volume**, suggesting strong investor confidence.
+
+---
+
+## 📁 Repository Structure
+- Power BI dashboard screenshots
+- Dataset ZIP file
+- This README documentation
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open in **Power BI Desktop**
+3. Refresh data if required
+4. Interact using slicers and visuals
+
+---
+
+## 🔮 Future Enhancements
+
+- Add moving averages (50 DMA, 200 DMA)
+- Forecast future prices using time-series analysis
+- Compare ABB India with NIFTY or peer stocks
+- Add return % and CAGR analysis
+
+---
+
+## 👤 Author
+
+**Justin**  
+Data Analyst | Power BI | Data Visualization  
+
+📌 *This project is created for learning, portfolio, and analytical demonstration purposes.*
+
+---
+
+⭐ If you like this project, don’t forget to **star the repository**!
