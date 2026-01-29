@@ -241,6 +241,15 @@ This dashboard is designed for **data analysis portfolios, interviews, and busin
 - This README documentation
 
 ---
+## 📂 Project Files Included
+This repository contains all files related to the Power BI project.
+
+### ✅ 2. Dashboard Screenshots
+The following images show key views from the Power BI dashboard:
+
+
+
+---
 
 ## 🚀 How to Use
 
