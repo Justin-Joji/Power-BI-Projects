@@ -142,10 +142,10 @@ The following images show key views from the Power BI dashboard:
 💡 Portfolio: Power BI Sales Analytics Projects.
 
 
+---
 
 
-
-# 📊 ABB India Stock Performance Analysis (2000–2025)
+# 2. ABB India Stock Performance Analysis (2000–2025)
 
 This project presents an end-to-end **stock performance analysis of ABB India** using **Power BI**, covering historical data from **2000 to 2025**.  
 The dashboard focuses on **price trends, trading volume, volatility, and long-term performance insights**.
@@ -246,8 +246,8 @@ This repository contains all files related to the Power BI project.
 
 ### ✅ 2. Dashboard Screenshots
 The following images show key views from the Power BI dashboard:
-
-
+-[Screenshot 2026-01-29 145446.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202026-01-29%20145446.png)
+-
 
 ---
 
