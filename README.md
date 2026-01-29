@@ -247,20 +247,13 @@ This repository contains all files related to the Power BI project.
 ### ✅ 2. Dashboard Screenshots
 The following images show key views from the Power BI dashboard:
 -[Screenshot 2026-01-29 145446.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202026-01-29%20145446.png)
+
 -[Screenshot 2026-01-29 145454.png](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/Screenshot%202026-01-29%20145454.png)
 
 ### 📅 3. Dataset
 - **abbindia.csv** [abbindia.csv](https://github.com/Justin-Joji/Power-BI-Projects/blob/main/abbindia.csv)
-  This CSV file contains the orginal dataset used for building all visualizations in Power BI.
+-This CSV file contains the orginal dataset used for building all visualizations in Power BI.
 
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-3. Refresh data if required
-4. Interact using slicers and visuals
 
 ---
 
