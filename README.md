@@ -271,6 +271,75 @@ The following images show key views from the Power BI dashboard:
 **Justin**  
 Data Analyst | Power BI | Data Visualization  
 
+
+---
+
+# 3. IBM HR Analytics Dashboard 
+
+## 📌 Project Overview
+This project showcases an **interactive HR Analytics Dashboard** built using **Power BI** based on the IBM HR dataset.  
+The dashboard helps analyze employee demographics, income distribution, business travel behavior, and department-wise insights.
+
+---
+
+## 🎯 Objectives
+- Analyze total employee count and monthly income
+- Understand gender distribution across the organization
+- Study business travel patterns
+- Compare departments by education field
+- Provide HR insights using interactive visuals
+
+---
+
+## 📈 Key KPIs
+- **Total Employees:** 1,058  
+- **Total Monthly Income:** 7M  
+- **Gender Split:** Male vs Female  
+- **Business Travel Types:**  
+  - Travel Rarely  
+  - Travel Frequently  
+  - Non-Travel  
+
+---
+
+## 📊 Dashboard Features
+- KPI cards for quick insights
+- Gender distribution (Donut Chart)
+- Business travel analysis by gender
+- Department vs education field (Stacked Bar Chart)
+- Business travel category distribution
+- Detailed employee table for drill-down analysis
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI Desktop  
+- DAX (Measures & Calculations)  
+- Data Modeling  
+- Interactive Visualizations  
+
+---
+
+## 🔍 Key Insights
+- Most employees fall under **Travel Rarely**
+- Male employees slightly outnumber female employees
+- **Research & Development** has the highest employee count
+- **Life Sciences** is the most common education background
+
+---
+
+## 📂 Dataset
+- IBM HR Analytics Employee Attrition Dataset  
+- Public dataset used for learning and analysis purposes
+
+---
+
+## 👤 Author
+**Justin**  
+Power BI | Data Analytics  
+
+
+
 📌 *This project is created for learning, portfolio, and analytical demonstration purposes.*
 
 ---
